@@ -7,4 +7,4 @@ sevimli fanlarim
 -fizika
 
   sahifam:[GitHub] (https://github.com/nargiz-dev)
-[rasm] ( rasm.png)
+! [rasm] ( rasm.png)
